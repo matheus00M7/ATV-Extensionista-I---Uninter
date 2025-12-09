@@ -1,0 +1,10 @@
+1. Criar um fork do repositorio (desmarca a opcao de 'Copy the main branch only')
+2. git clone https://github.com/madruga0/ATV-Extensionista-I---Uninter.git
+3. git remote -v
+    3.1 git remote remove origin
+    3.2 git remote remove upstream 
+    3.3 git remote add origin https://github.com/(usuarioDoGitHub)/ATV-Extensionista-I---Uninter.git
+    3.4 git remote add upstream https://github.com/madruga0/ATV-Extensionista-I---Uninter.git
+4. git pull upstream main
+5. git log --> ver o historico dos commits (mensagens)
+6. abrir no vscode e fazer as modificacoes de voces
