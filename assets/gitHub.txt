@@ -8,3 +8,12 @@
 4. git pull upstream main
 5. git log --> ver o historico dos commits (mensagens)
 6. abrir no vscode e fazer as modificacoes de voces
+
+
+---------- CRIANDO BRANCH/COMMIT/PULL-REQUEST ----------
+1. git status //ver o status do projeto
+2. git add. OU git add <nomeDoArquivo>
+3. git co -b <nomeDaBranch> //cria a branch e muda para ela
+4. git commit -m "Mensagem do commit"
+5. git push origin <nomeDaBranch>
+6. git log //visualizar o historico de commits
